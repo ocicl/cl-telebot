@@ -1,0 +1,10 @@
+* cl-telebot
+
+Common Lisp Telegram Bot API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gzip4/cl-telebot.git   |
+| commit  | {"messa  |
+| systems | cl-telebot |
+|---------+-------------------------------------------|
+
